@@ -1,0 +1,4 @@
+baseurl = "http://blog.joaojeronimo.me/"
+languageCode = "en-us"
+title = "João Jerónimo | Blog"
+theme = "hugo-theme-casper"
