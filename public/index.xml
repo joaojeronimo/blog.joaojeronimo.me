@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>João Jerónimo | Blog</title>
+    <link>http://blog.joaojeronimo.me/</link>
+    <description>Recent content on João Jerónimo | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jun 2015 23:26:00 +0100</lastBuildDate>
+    <atom:link href="http://blog.joaojeronimo.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello world</title>
+      <link>http://blog.joaojeronimo.me/post/hello-world/</link>
+      <pubDate>Tue, 23 Jun 2015 23:26:00 +0100</pubDate>
+      
+      <guid>http://blog.joaojeronimo.me/post/hello-world/</guid>
+      <description>&lt;p&gt;Hi, this is a hello world post. It&amp;rsquo;s not supposed to say much, just that the blog is alive.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
